@@ -6,4 +6,7 @@ public class demo1 {
 			System.out.println(i);
 		}
 	}
+      public void method1() {
+            System.out.println("method");
+	}
 }
